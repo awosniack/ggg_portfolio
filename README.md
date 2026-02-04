@@ -2,6 +2,10 @@
 
 A C++ client-server inventory management system.
 
+## Demo Video
+
+[![Watch Demo Video](https://img.youtube.com/vi/IpXiM5fGRxU/maxresdefault.jpg)](https://www.youtube.com/watch?v=IpXiM5fGRxU)
+
 ## Features
 
 - **Client-Server Architecture**: Server authoritative design where all game logic runs on the server
